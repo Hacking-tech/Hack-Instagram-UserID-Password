@@ -24,6 +24,7 @@ table, th, td {
             <th>Sl No</th>
             <th>Username</th>
             <th>Password</th>
+            get username and password display
         </tr>
         <?php
             $sql = "SELECT * FROM instadetails";
